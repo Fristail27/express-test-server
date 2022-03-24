@@ -1,0 +1,14 @@
+{
+  "name": "express-test-server",
+  "version": "0.0.1",
+  "description": "test server",
+  "main": "src/index.js",
+  "author": "Ryzhov Alexey",
+  "license": "MIT",
+  "scripts": {
+    "start" : "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
